@@ -17,7 +17,12 @@ The objective of this exercise is to familiarise ourselves with the process of m
 Feel free to add your name or GitHub username and a fun fact about yourself. Let's get started!
 
 ## Participant Contributions
-
 - GitHubUser1: Fun fact: I've never been to the ocean.
 - GitHubUser2: Fun fact: I can juggle three balls while riding a unicycle.
+<<<<<<< HEAD
 - Milan Sojitra: Fun fact: I have a pet dog named "Max".
+=======
+
+- iles_stell (ilaria): in my freetime I crochet nudiebranch scrunchies!
+- Dahlia was here. Fun fact: I love to travel and explore new places.
+>>>>>>> c69783c6d466dea3faddadd0dba285fe2239f1ff
